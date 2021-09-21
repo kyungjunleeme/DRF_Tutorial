@@ -1,0 +1,4 @@
+django-environ
+django-filter
+djangorestframework
+black

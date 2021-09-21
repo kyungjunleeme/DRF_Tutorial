@@ -1,0 +1,15 @@
+2강
+
+- Improving the ViewSEt QuerySet performance
+- Pagination
+https://www.django-rest-framework.org/api-guide/pagination/
+- Filter
+https://www.django-rest-framework.org/api-guide/filtering/#searchfilter
+https://www.django-rest-framework.org/api-guide/filtering/#orderingfilter
+https://www.django-rest-framework.org/api-guide/filtering/#djangofilterbackend
+- Closing
+
+
+3강
+
+https://www.django-rest-framework.org/api-guide/authentication/#tokenauthentication
