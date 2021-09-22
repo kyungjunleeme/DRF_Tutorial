@@ -13,3 +13,5 @@ https://www.django-rest-framework.org/api-guide/filtering/#djangofilterbackend
 3강
 
 https://www.django-rest-framework.org/api-guide/authentication/#tokenauthentication
+
+https://www.django-rest-framework.org/api-guide/permissions/#isauthenticated
